@@ -1,0 +1,14 @@
+{
+  "name": "deepcopy",
+  "version": "1.0.0",
+  "main": "deepcopy.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
