@@ -48,5 +48,5 @@ const deepCopy = (obj, weakMap = new WeakMap()) => {
 
     return copied;
 }
-
+console.log('a');
 module.exports = deepCopy;
